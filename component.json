@@ -4,10 +4,10 @@
   "description": "museo-sans font",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "esundahl/museo-sans-500": "*",
+    "esundahl/museo-sans-500-italic": "*"
+  },
   "development": {},
-  "license": "MIT",
-  "styles": [
-    "museo-sans.css"
-  ]
+  "license": "MIT"
 }
