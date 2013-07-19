@@ -1,0 +1,13 @@
+{
+  "name": "museo-sans",
+  "repo": "esundahl/museo-sans",
+  "description": "museo-sans font",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "styles": [
+    "museo-sans.css"
+  ]
+}
