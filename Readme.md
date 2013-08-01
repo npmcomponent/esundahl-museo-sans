@@ -1,6 +1,8 @@
 # Museo Sans
 
   Museo font component using @font-face. Include 500 regular and 500 italic.
+  
+  http://www.fontsquirrel.com/fonts/Museo-Sans
 
 ## Installation
 
